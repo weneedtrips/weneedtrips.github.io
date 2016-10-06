@@ -1,0 +1,60 @@
+#navbar {
+    width:1600px;
+    height:100px;
+    background-color:blue;
+    border:2px solid black;
+    position:fixed;
+}
+
+ul li {
+    display:inline;
+    font-size:80px;
+}
+a {
+    text-decoration:underlined;
+    color:yellow;
+}
+
+img {
+    width:1600px;
+    height: 700px;
+    border:4px solid black;
+}
+
+.places {
+    text-align:center;
+    font-size:100px;
+    
+    
+}
+#laser {
+    height:800px;
+    width:1600px;
+}
+p {
+    font-size:50px;
+    text-align:right;
+    clear:left;
+    margin-bottom:-100;
+    position:relative;
+}
+p a {
+    text-decoration:none;
+    color:orange;
+    text-align:right;
+}
+h1 {
+    text-align:center;
+    font-family:
+}
+rightText {
+    float:right;
+    clear:left;
+}
+#History {
+    text-align:center;
+}
+.place {
+    font-size:50px;
+    font-family:Helvetica;
+}
